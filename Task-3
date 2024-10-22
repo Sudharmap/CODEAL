@@ -9,7 +9,6 @@ HTML:
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Navigation -->
     <header>
         <nav>
             <ul>
@@ -20,20 +19,14 @@ HTML:
             </ul>
         </nav>
     </header>
-
-    <!-- Home Section -->
     <section id="home" class="section">
         <h1>Welcome to My Portfolio</h1>
         <p>Hi, I'm John Doe, a Front-End Developer</p>
     </section>
-
-    <!-- About Section -->
     <section id="about" class="section">
         <h2>About Me</h2>
         <p>I am a passionate developer with experience in HTML, CSS, and JavaScript. I love building interactive websites and web apps.</p>
     </section>
-
-    <!-- Portfolio Section -->
     <section id="portfolio" class="section">
         <h2>My Projects</h2>
         <div class="project">
@@ -45,8 +38,6 @@ HTML:
             <p>An interactive web app using JavaScript.</p>
         </div>
     </section>
-
-    <!-- Contact Section -->
     <section id="contact" class="section">
         <h2>Contact Me</h2>
         <form id="contactForm">
