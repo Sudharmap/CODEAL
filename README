@@ -1,1 +1,19 @@
 NAME:P.SUDHARMA
+
+COMPANY:CODE ALPHA
+
+ID:CA/03/41477
+
+DOMAIN:WEB DEVELOPMENT
+
+DURATION:OCTOBER 1.10.2024-31.10.2024
+
+TASK-2(Portfolio) Overview of the project:-
+HTML:
+      HTML code creates a personal portfolio website for Me, featuring sections for a welcome message, about information, resume details, and a contact form. It includes navigation links and structured content using semantic elements for improved accessibility and organization.
+CSS:
+      This CSS code styles a personal portfolio website with a clean layout, including a reset for margins and paddings, and distinct designs for the header, sections, accordion, and forms. It features user-friendly elements like hover effects on buttons and navigation links for enhanced interactivity.
+
+JAVASCRIPT:
+This JavaScript code adds interactivity to the portfolio website, specifically for an accordion feature and a resume download function. 
+
